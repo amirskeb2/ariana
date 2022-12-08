@@ -1,5 +1,5 @@
 Babel==2.7.0
-certifi==2019.11.28
+certifi==2022.12.7
 Django==2.2.10
 djangorestframework==3.11.0
 Pillow==6.2.1
